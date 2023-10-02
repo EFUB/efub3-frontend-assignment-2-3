@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2016" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "module": "ESNext" /* Specify what module code is generated. */,
+    "outDir": "dist",
+    "strict": true,
+    "moduleDetection": "force"
+  },
+  "ts-node": { "esm": true },
+  "include": ["src"]
+}
