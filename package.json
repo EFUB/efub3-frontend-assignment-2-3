@@ -1,0 +1,10 @@
+{
+	"name": "section1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"dependencies": {
+		"@types/node": "^20.6.4"
+	}
+}
